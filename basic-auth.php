@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: JSON Basic Authentication
- * Description: Basic Authentication handler for the JSON API, used for development and debugging purposes
+ * sdfDescription: Basic Authentication handler for the JSON API, used for development and debugging purposes
  * Author: WordPress API Team
  * Author URI: https://github.com/WP-API
  * Version: 0.1
